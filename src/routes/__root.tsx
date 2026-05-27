@@ -8,8 +8,8 @@ export const Route = createRootRoute({
     meta: [
       { charSet: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { title: 'Alex Morgan — Graphic Designer' },
-      { name: 'description', content: 'Graphic designer specializing in brand identity, print, and digital design.' },
+      { title: 'Clinton ThankGod — Brand Designer & AI Automation Expert' },
+      { name: 'description', content: 'Brand designer specializing in brand identity, print, and digital design.' },
     ],
   }),
   shellComponent: RootDocument,
@@ -32,7 +32,7 @@ function Nav() {
           className="font-display font-bold text-lg tracking-tight"
           onClick={() => setMobileOpen(false)}
         >
-          <span className="gradient-text">Alex Morgan</span>
+          <span className="gradient-text">Clinton ThankGod</span>
         </Link>
 
         {/* Desktop nav */}
@@ -105,15 +105,15 @@ function Footer() {
     <footer className="border-t border-border mt-24">
       <div className="max-w-6xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center justify-between gap-6">
         <div>
-          <p className="font-display font-bold text-lg gradient-text">Alex Morgan</p>
-          <p className="text-sm text-muted-foreground mt-1">Graphic Designer & Visual Storyteller</p>
+          <p className="font-display font-bold text-lg gradient-text">Clinton ThankGod</p>
+          <p className="text-sm text-muted-foreground mt-1">Brand Designer & AI Automation Expert</p>
         </div>
         <div className="flex items-center gap-6 text-sm text-muted-foreground">
           <Link to="/projects" className="hover:text-foreground transition-colors">Work</Link>
           <Link to="/resume" className="hover:text-foreground transition-colors">About</Link>
           <Link to="/contact" className="hover:text-foreground transition-colors">Contact</Link>
         </div>
-        <p className="text-sm text-muted-foreground">© 2024 Alex Morgan. All rights reserved.</p>
+        <p className="text-sm text-muted-foreground">© 2025 Clinton ThankGod. All rights reserved.</p>
       </div>
     </footer>
   )
