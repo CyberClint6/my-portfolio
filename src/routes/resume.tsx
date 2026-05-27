@@ -54,11 +54,11 @@ const tools = [
 
 const experience = [
   {
-    role: 'Senior Graphic Designer',
-    company: 'Studio North',
-    period: '2021 — Present',
-    description: 'Leading visual identity projects for global clients across retail, tech, and hospitality sectors. Mentoring junior designers and managing creative production.',
-    tags: ['Brand Identity', 'Art Direction', 'Team Lead'],
+    role: 'Lead Creative Director',
+    company: 'F1 Team Associates, Nigeria',
+    period: '2024 — Present',
+    description: 'Built impactful brand identities and led creative direction focused on strengthening brand presence sectors.',
+    tags: ['Brand Identity', 'Creative Direction', 'Team Lead'],
   },
   {
     role: 'Graphic Designer',
@@ -68,11 +68,11 @@ const experience = [
     tags: ['Campaigns', 'Print', 'Digital'],
   },
   {
-    role: 'Junior Designer',
-    company: 'Inkwell Studio',
-    period: '2018 — 2019',
-    description: 'Produced editorial layouts, logo explorations, and brand collateral for a boutique design studio.',
-    tags: ['Editorial', 'Branding', 'Collateral'],
+    role: 'Renewable Energy Volunter/Junior Designer',
+    company: 'Renew Watts Technologies, Florida, USA',
+    period: '2024',
+    description: 'Led creative direction for renewable energy awareness campaigns, Designed promotional flyers, social media graphics, and educational materials etc',
+    tags: ['Editorial', 'Campaigns', 'Digital'],
   },
 ]
 
