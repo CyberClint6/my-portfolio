@@ -1,4 +1,4 @@
-# Alex Morgan — Graphics Design Portfolio
+# Clinton ThankGod — Graphics Design Portfolio
 
 A personal portfolio website for a graphic designer, built to showcase brand identity, print, digital, and illustration work. Features a bold dark-mode aesthetic with vibrant accent colors.
 
