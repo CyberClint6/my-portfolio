@@ -58,7 +58,7 @@ function Contact() {
                 </div>
                 <div>
                   <p className="text-xs text-muted-foreground mb-0.5">Email</p>
-                  <p className="text-sm font-medium">hello@alexmorgan.design</p>
+                  <p className="text-sm font-medium">clint.thankgod@yahoo.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
@@ -67,7 +67,7 @@ function Contact() {
                 </div>
                 <div>
                   <p className="text-xs text-muted-foreground mb-0.5">Location</p>
-                  <p className="text-sm font-medium">New York, NY (Available Remote)</p>
+                  <p className="text-sm font-medium">Port Harcourt, Nigeria (Available Remote)</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
